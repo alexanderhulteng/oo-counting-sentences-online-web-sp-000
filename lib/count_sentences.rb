@@ -18,7 +18,7 @@ class String
     binding.pry
     self.strip.split(/\w[?!.]/).length
 
-    
+
 
   end
 end
